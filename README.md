@@ -1,0 +1,1 @@
+# Shetkari Mitra - Flutter WebView App (Advanced UI)\nThis repository contains the advanced UI Flutter WebView app that embeds Mahabhumi Digitalsatbara portal.\nFollow the README in top-level for instructions to build and run.\n
